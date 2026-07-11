@@ -165,7 +165,7 @@
 
 72. tar -xvf a.tar     #Extract TAR archive
 
-73. tar -czvf a.tgz dir#Create gzipped TAR
+73. tar -czvf a.tgz dir #Create gzipped TAR
 
 74. tar -xzvf a.tgz    #Extract gzipped TAR
 
@@ -178,7 +178,9 @@
 78. unzip a.zip    #UNZIP file
 
 
-#GIT & SCRIPTS
+#GICOMPRESSION
+
+
 
 79. git clone url  #CLONE git repository
 
@@ -194,6 +196,7 @@
 
 
 #SERVICES
+
 85. systemctl start svc  #START service
 
 86. systemctl stop svc   #STOP service
@@ -204,7 +207,9 @@
 
 89. crontab -e     #Edit CRON TAB tasks
 
+
 #KALI TOOLS
+
 
 90. nmap -sV target #Network MAPper - scan ports
 
